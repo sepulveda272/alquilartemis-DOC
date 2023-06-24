@@ -1,5 +1,15 @@
 //1. para instalar el package.json necesita primero siempre entrar a la carpeta backend
 //2. para entrar a esa carpeta backend se usa el cd backend/ y ya estando en la carpeta backend usa el comando npm init -y
 //3. luego se instala el express con el siguiente comando npm i express
+//4. dentro de la carpeta backend crear la carpetas src 
+//5. dentro de la carpeta src crear las siuientes carpetas y archivos:
+
+    CARPETAS        ARCHIVOS
+    -controllers    -app.js
+    -db             -index.js
+    -routes         -config.js
+
+//6. dentro de la carpeta backend crear un archivo .env donde van la variables de entorno
 
 
+//continuacion del paso a paso en el archivo index.js
